@@ -1,3 +1,4 @@
+
 const express = require('express');
 const mongoose = require('mongoose');
 const Note = require('../models/Note');
@@ -70,3 +71,4 @@ router.delete('/:id', async (req, res) => {
 });
 
 module.exports = router;
+
