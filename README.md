@@ -72,17 +72,17 @@ Open `http://localhost:5000` for a simple test client.
 ### 4. Create note with valid JWT (201)
 ![Create note](screenshots/post-notes-1.jpeg)
 
-### 4. Create note with valid JWT (201)
+### 5. Create note with valid JWT (201)
 ![Create note](screenshots/post-notes-2.jpeg)
 
-### 5. Get all notes with valid JWT (200)
+### 6. Get all notes with valid JWT (200)
 ![Get notes](screenshots/get-api-notes.jpeg)
 
-### 6. Put notes with valid JWT
+### 7. Put notes with valid JWT
 ![Put notes](screenshots/put.jpeg)
 
-### 7. Delete notes with valid JWT
+### 8. Delete notes with valid JWT
 ![Delete note](screenshots/delete.jpeg)
 
-### 8. Real Time Chat
+### 9. Real Time Chat
 ![Real Chat](screenshots/Real-time-chat.jpeg)
